@@ -97,10 +97,11 @@ class AnouarBenMoussa:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![Anouar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anouar-bm&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anouar-bm&layout=compact&theme=tokyonight&langs_count=10)
+![](https://raw.githubusercontent.com/anouar-bm/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anouar-bm/stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/anouar-bm/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/anouar-bm/stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anouar-bm&theme=tokyonight)
 
