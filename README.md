@@ -39,56 +39,53 @@ class AnouarBenMoussa:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ My Skills
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/langchain.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg?raw=true" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react_native.png?raw=true" width="100"></td>
+    <td><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
+      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="100">
+    </picture></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg?raw=true" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/LangChain-1C3A47?style=for-the-badge&logo=langchain&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/RAG_Systems-4285F4?style=for-the-badge&logo=google&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="100"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg?raw=true" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg?raw=true" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" /></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="100"></td>
+    <td><img src="https://gitmcp.io/img/icon_cropped.png" width="100"></td>
   </tr>
 </table>
 
