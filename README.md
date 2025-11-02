@@ -12,8 +12,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anouar-ben-moussa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anouarbnmoussa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anouar-bm)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212664078332)
 
 </div>
 
@@ -103,8 +102,6 @@ class AnouarBenMoussa:
 ![](https://raw.githubusercontent.com/anouar-bm/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/anouar-bm/stats/master/generated/languages.svg#gh-light-mode-only)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anouar-bm&theme=tokyonight)
-
 </div>
 
 ---
@@ -183,11 +180,6 @@ class AnouarBenMoussa:
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anouar-bm&theme=tokyo-night&hide_border=true)
-
----
 
 ## 🎯 Current Focus & Goals
 
@@ -203,7 +195,7 @@ class AnouarBenMoussa:
 - ☁️ Cloud-native architectures and microservices
 - 🎨 Advanced UI/UX design patterns
 
-### 👯 I'm looking to collaborate on
+### 👋🏻 I'm looking to collaborate on
 - 🚀 Open-source AI/ML projects
 - 💡 Innovative startup ideas
 - 🌍 Projects with social impact
@@ -222,16 +214,6 @@ class AnouarBenMoussa:
 <div align="center">
 
 I'm always open to discussing new opportunities, collaborations, or just having a tech chat!
-
-<a href="mailto:anouarbnmoussa@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/anouar-ben-moussa">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="tel:+212664078332">
-  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 
 ### 💬 Fun Facts
 - ♟️ Chess enthusiast - I believe coding is like chess, every move counts!
