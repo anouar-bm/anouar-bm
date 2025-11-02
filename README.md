@@ -106,17 +106,11 @@ class AnouarBenMoussa:
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications
 
 <div align="center">
 
-### 🎖️ Recent Certifications
-- 🌟 **5-Day Generative AI Intensive** - Kaggle & Google (2025)
-- 🔮 **OCI 2025 Certified Generative AI Professional** - ORACLE
-- 🐳 **Introduction to Containers w/ Docker, Kubernetes & OpenShift** - Coursera
-- 🛡️ **Fondation en Résilience Cyber** - Cyber Resilience Academy
-- ⚛️ **React Basics** - Coursera
-- 📊 **Data Visualization** - Kaggle
+🌟 **5-Day Generative AI Intensive** (Kaggle & Google) • 🔮 **OCI 2025 Certified GenAI Professional** (Oracle) • 🐳 **Containers, Docker, K8s & OpenShift** (Coursera) • 🛡️ **Cyber Resilience Foundation** • ⚛️ **React Basics** (Coursera) • 📊 **Data Visualization** (Kaggle)
 
 </div>
 
@@ -124,23 +118,37 @@ class AnouarBenMoussa:
 
 ## 💼 Professional Experience
 
-### 🧠 **Machine Learning Intern** | Al Akhawayn University
-*July 2025 - September 2025 | Ifrane, Morocco*
-- 🎯 Developed Neural ODE model for student dropout risk prediction
-- 📊 Implemented advanced optimization with Optuna grid search
-- 🔬 Applied SHAP for model explainability and interpretability
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🤖 **Generative AI Intern** | Laboratory LPRI (EMSI)
-*July 2024 - September 2024 | Casablanca, Morocco*
-- 🏛️ Built multimodal LLM for preserving Marrakech's cultural heritage
-- 🌍 Implemented auto-detection & translation for 200+ languages
-- ⚡ Deployed with FastAPI, achieving optimized p95 latency
+### 🧠 ML Intern
+**Al Akhawayn University**
+*Jul-Sep 2025 | Ifrane*
 
-### 💻 **Full-Stack Development Intern** | Launchpad
-*June 2024 - August 2024 | Marrakech, Morocco*
-- 🚗 Developed multi-company CRM for car rental businesses
-- 📱 Designed responsive front-end with Next.js and modern UI/UX
-- 📄 Integrated in-app PDF viewer for enhanced user experience
+Neural ODE model for dropout prediction • Optuna optimization • SHAP explainability
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Gen AI Intern
+**Laboratory LPRI (EMSI)**
+*Jul-Sep 2024 | Casablanca*
+
+Multimodal LLM for cultural heritage • 200+ languages support • FastAPI deployment
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Full-Stack Intern
+**Launchpad**
+*Jun-Aug 2024 | Marrakech*
+
+Multi-company CRM • Next.js responsive UI • PDF viewer integration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -183,29 +191,28 @@ class AnouarBenMoussa:
 
 ## 🎯 Current Focus & Goals
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔭 I'm currently working on
-- 🤖 Advanced RAG systems with LangChain and LangGraph
-- 🧠 Neural ODE implementations for time-series prediction
-- 🌐 Building scalable full-stack applications with AI integration
+**🔭 Working On**
+Advanced RAG systems • Neural ODE implementations • AI-integrated full-stack apps
 
-### 🌱 I'm currently learning
-- 🔮 Advanced prompt engineering and MCP protocols
-- ☁️ Cloud-native architectures and microservices
-- 🎨 Advanced UI/UX design patterns
+**🌱 Learning**
+Prompt engineering & MCP • Cloud-native architectures • Advanced UI/UX patterns
 
-### 👋🏻 I'm looking to collaborate on
-- 🚀 Open-source AI/ML projects
-- 💡 Innovative startup ideas
-- 🌍 Projects with social impact
+</td>
+<td width="50%" valign="top">
 
-### 🤔 I'm looking for
-- 📚 **4-6 month Final Year Project Internship**
-- 🏢 Opportunities in AI/ML or Full-Stack Development
-- 🌐 International collaboration projects
+**💼 Seeking**
+📚 **4-6 month Final Year Internship** in AI/ML or Full-Stack Development
 
-</div>
+**🤝 Open To**
+Open-source AI/ML projects • Startup collaborations • International projects
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -215,11 +222,7 @@ class AnouarBenMoussa:
 
 I'm always open to discussing new opportunities, collaborations, or just having a tech chat!
 
-### 💬 Fun Facts
-- ♟️ Chess enthusiast - I believe coding is like chess, every move counts!
-- 🥋 Taekwondo practitioner - Discipline in martial arts translates to clean code
-- 🚦 Honorary member of Moroccan Road-Safety Organization
-- 🌍 Fluent in 3 languages and counting!
+**💬 Fun Facts:** ♟️ Chess enthusiast • 🥋 Taekwondo practitioner • 🚦 Moroccan Road-Safety Organization member • 🌍 Fluent in 3 languages
 
 </div>
 
