@@ -154,37 +154,54 @@ Multi-company CRM • Next.js responsive UI • PDF viewer integration
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏦 **Banking Desktop App with Intelligent SQL Chatbot**
-[![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)](https://github.com/anouar-bm)
-[![Groq API](https://img.shields.io/badge/Groq_API-FF6B6B?style=flat&logo=api&logoColor=white)](https://github.com/anouar-bm)
-> Smart banking application with natural language SQL queries
+### 🏦 Banking Desktop App
+**JavaFX • Groq API**
 
-### ⚡ **Python Prompt Optimization Server**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/anouar-bm)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3A47?style=flat&logo=chain&logoColor=white)](https://github.com/anouar-bm)
-[![MCP](https://img.shields.io/badge/MCP-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/anouar-bm)
-> Advanced prompt engineering with Model Context Protocol
+Smart banking application with natural language SQL queries
 
-### 📱 **AI-Powered Story & Image Generation App**
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/anouar-bm)
-[![AI SDK](https://img.shields.io/badge/AI_SDK-FF6F00?style=flat&logo=openai&logoColor=white)](https://github.com/anouar-bm)
-> Mobile app for creative content generation using AI
+---
 
-### 🍔 **AI Meal Recommender with Deep Q-Network**
-[![Deep Learning](https://img.shields.io/badge/DQN-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/anouar-bm)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://github.com/anouar-bm)
-[![Gradio](https://img.shields.io/badge/Gradio-FF9E0F?style=flat&logo=gradio&logoColor=white)](https://github.com/anouar-bm)
-> Personalized Moroccan meal planning with reinforcement learning
+### ⚡ Prompt Optimization Server
+**Python • LangGraph • MCP**
 
-### 📊 **Netflix Data Analysis Dashboard**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/anouar-bm)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://github.com/anouar-bm)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)](https://github.com/anouar-bm)
-> Comprehensive trend analysis and KPI visualization
+Advanced prompt engineering with Model Context Protocol
 
-</div>
+---
+
+### 📱 AI Story & Image Generator
+**React Native • AI SDK**
+
+Mobile app for creative content generation using AI
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 AI Meal Recommender
+**Deep Q-Network • MongoDB • Gradio**
+
+Personalized Moroccan meal planning with reinforcement learning
+
+---
+
+### 💊 Pharmaceutical Stock System
+**React • Node.js • React Native • Azure AKS**
+
+Enterprise multi-tenant web & mobile app with expiry tracking, K8s deployment & CI/CD pipelines
+
+---
+
+### 📊 Netflix Data Dashboard
+**Python • Pandas • Matplotlib**
+
+Comprehensive trend analysis and KPI visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
