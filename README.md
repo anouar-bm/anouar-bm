@@ -22,7 +22,7 @@
 
 > *"Bridging the gap between imagination and implementation through code and AI"*
 
-I'm a **final-year Computer Science & Networks Engineering student** at EMSI Marrakech, specializing in MIAGE. Currently seeking a **4-6 month internship** to apply my skills in real-world projects.
+I'm a **final-year Computer Science & Networks Engineering student** at EMSI Marrakech, specializing in MIAGE.
 
 ```python
 class AnouarBenMoussa:
