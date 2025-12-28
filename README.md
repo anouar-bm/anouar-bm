@@ -237,7 +237,7 @@ Open-source AI/ML projects • Startup collaborations • International projects
 
 I'm always open to discussing new opportunities, collaborations, or just having a tech chat!
 
-**💬 Fun Facts:** ♟️ Chess enthusiast • 🥋 Taekwondo practitioner • 🚦 Moroccan Road-Safety Organization member • 🌍 Fluent in 3 languages
+**💬 Fun Facts:** ♟️ Chess enthusiast • 🥋 Taekwondo practitioner • 🚦 Moroccan Road-Safety Organization member
 
 </div>
 
